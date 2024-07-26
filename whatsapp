@@ -3,9 +3,11 @@ scenario to verify videocall in whatsapp
 given to sign account on whatsapp
 when go to call option to select videocall
 then the connect call is suscessfully 
-GROUP VIDEOCALL
+GROUP VIDEOCALL:
 feature to make a groupvideocall
 scenario to verify groupvideocall in whatsapp
 given to sign account on whatsapp
 when go to call option to select videocall
 then the connect call is suscessfully
+update:
+to upadate the status
